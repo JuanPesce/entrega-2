@@ -170,7 +170,7 @@ margin-bottom: 0px;}
     padding: 10px 0;
 }
 
-.main__shop{
+.main{
     background-color: rgb(249, 218, 177);
 }
 
@@ -255,7 +255,7 @@ align-items: center;
 /*Detalles*/
 
 .main-contacto{
-    padding: 20px;
+    padding: 0px 40px ;
 }
 
 .main-contacto h1{
