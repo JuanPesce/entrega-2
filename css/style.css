@@ -70,7 +70,7 @@ body{
 
 .main__historia img{
     display: flex;
-    width: 70%;
+    width: 400px;
     height: 200px;
     padding: 10px 0px;
 }
@@ -275,4 +275,13 @@ align-items: center;
 .main__rutas h2:hover{
     background-color: rgb(189, 151, 102);
     color: black;
+}
+
+@media (max-width: 475px){
+    .main__historia img{
+        display: flex;
+        width: 70%;
+        height: 200px;
+        padding: 10px 0px;
+    }
 }
