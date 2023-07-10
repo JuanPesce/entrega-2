@@ -262,7 +262,10 @@ align-items: center;
 }
 
 .main__shop h2{
-    padding: 10px 0px;
+    padding: 0px 10px 0px 50px;
+}
+.main__shop h1{
+    padding: 0px 10px 0px 30px;
 }
 
 /*Detalles*/
@@ -331,5 +334,11 @@ align-items: center;
         width: 480px;
         height: 300px;
         padding: 10px;
+    }
+    .main__tutorial{
+        padding:  0px 100px 0px 30px;
+    }
+    .main__historia{
+        padding:  0px 100px 0px 30px;
     }
 }   
