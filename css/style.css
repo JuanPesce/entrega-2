@@ -319,7 +319,7 @@ align-items: center;
     .pop-up-index h2{
         background-color: rgb(103, 62, 15);
      /*   text-align: center;*/
-        color: antiquewhite;
+        color: rgb(235, 218, 196);
         display: flex;
         font-size: 20px;
         justify-content: center;
