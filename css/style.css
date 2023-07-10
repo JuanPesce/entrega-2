@@ -302,6 +302,10 @@ align-items: center;
         width: 425px;
         margin-bottom: 0px;
         }
+        .main__tutorial__imagenprincipal{
+            display: flex;
+            width: 425px;
+        }
 
 }
 
@@ -311,5 +315,20 @@ align-items: center;
     }
     .pop-up-index img {
         width: 300px;
+    }
+    .pop-up-index h2{
+        background-color: rgb(103, 62, 15);
+     /*   text-align: center;*/
+        color: antiquewhite;
+        display: flex;
+        font-size: 20px;
+        justify-content: center;
+        width: 300px;
+    }
+    .main__historia__imagenes{
+        display: flex;
+        width: 480px;
+        height: 300px;
+        padding: 10px;
     }
 }   
