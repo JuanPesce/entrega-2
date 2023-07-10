@@ -297,11 +297,7 @@ align-items: center;
         height: 200px;
         padding: 10px;
     }
-    .main-index .frase-main{
-        background-color: antiquewhite;
-        width: 425px;
-        margin-bottom: 0px;
-        }
+
         .main__tutorial__imagenprincipal{
             display: flex;
             width: 425px;
@@ -316,6 +312,11 @@ align-items: center;
     .pop-up-index img {
         width: 300px;
     }
+    .main-index .frase-main{
+        background-color: antiquewhite;
+        width: 768px;
+        margin-bottom: 0px;
+        }
     .pop-up-index h2{
         background-color: rgb(103, 62, 15);
      /*   text-align: center;*/
